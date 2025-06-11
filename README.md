@@ -1,9 +1,20 @@
-📚 Development of Education App Presence Monitoring with Geolocator Environment Management Repository
+# Development of Education App Presence Monitoring with Geolocator Environment Management
 
-Welcome to this dynamic project! Our repository seamlessly integrates Golang as the API bridge between the administrative interface developed in React.js and the user interface crafted in Flutter. Leveraging the robust capabilities of geolocation technology from Flutter, our application not only tracks student attendance through latitude and longitude coordinates but also incorporates a comprehensive suite of features including roster management, interactive Q&A functionality, and other educational necessities.
+Welcome to a modern approach to educational presence monitoring! This repository brings together robust technologies to deliver a comprehensive solution for attendance tracking and academic engagement.
 
-Explore the following snapshots for a visual overview:
-- ![logindashboard.jpg](https://github.com/T0MM11Y/Development-of-Education-App-Presence-Monitoring-with-Geolocator-Environment-Management-/blob/main/Overview/login%26dashboarduser.jpg)
-- ![rosterqnauser.jpg](https://github.com/T0MM11Y/Development-of-Education-App-Presence-Monitoring-with-Geolocator-Environment-Management-/blob/main/Overview/roster%26qnauser.jpg)
-- ![adminlogindashboard.jpg](https://github.com/T0MM11Y/Development-of-Education-App-Presence-Monitoring-with-Geolocator-Environment-Management-/blob/main/Overview/dashboard%26login.jpg)
+Our system is architected with Golang serving as a reliable API bridge, connecting an intuitive administrative interface built in React.js to a seamless user experience designed in Flutter. By harnessing Flutter’s advanced geolocation capabilities, the app enables precise student attendance verification via latitude and longitude coordinates.
 
+Beyond attendance, the platform offers a rich set of features including:
+- **Roster Management:** Efficiently organize and monitor class participants.
+- **Interactive Q&A:** Facilitate real-time engagement between educators and students.
+- **Comprehensive Administration:** Administrative tools for oversight and management of academic environments.
+
+Below are snapshots for a visual overview:
+
+<p align="center">
+  <img src="https://github.com/T0MM11Y/Development-of-Education-App-Presence-Monitoring-with-Geolocator-Environment-Management-/blob/main/Overview/login%26dashboarduser.jpg" width="400"/>
+  <img src="https://github.com/T0MM11Y/Development-of-Education-App-Presence-Monitoring-with-Geolocator-Environment-Management-/blob/main/Overview/roster%26qnauser.jpg" width="400"/>
+  <img src="https://github.com/T0MM11Y/Development-of-Education-App-Presence-Monitoring-with-Geolocator-Environment-Management-/blob/main/Overview/dashboard%26login.jpg" width="400"/>
+</p>
+
+Explore the repository to discover how modern geolocation, seamless cross-platform integration, and interactive educational features come together to deliver innovative solutions for academic environments.
